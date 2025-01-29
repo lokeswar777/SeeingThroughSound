@@ -2,7 +2,7 @@ This repositry contains a project on Deep Learning and computer vision
 
 Aiding Visually impaired people with the help of computer vision
 
-<h1>Structure:</h1>
+<h1 style="color:red;">Structure:</h1>
 
 <h2>object detection</h2>
 <p>detecting object from video (frames)</p>
